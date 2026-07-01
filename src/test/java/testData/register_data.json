@@ -1,0 +1,29 @@
+{
+	"positive": [
+		{
+		"name": "Yahia",
+		"email": "testing2304@gmail.com",
+		"password": "Te_123456",
+		"day": "17",
+		"month": "February",
+		"year": "2002",
+		"firstName": "Yahia",
+		"lastName": "Ahmed",
+		"company": "Next Academy",
+		"address": "New York",
+		"address2": "New jersey",
+		"country": "United States",
+		"state": "New York",
+		"city": "New York city",
+		"zipCode": "4202",
+		"mobileNumber": "0112233"
+		}
+		
+	],
+	"negative":[
+		{
+		"name": "Yahia",
+		"email": "Exist email"
+		}
+	]
+}

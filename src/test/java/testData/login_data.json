@@ -1,0 +1,18 @@
+{
+	"positive": [
+		{
+			"email": "abdelrahmanosama769@gmail.com",
+			"password": "a123456789"
+		}
+	],
+	"negative": [
+		{
+			"email": "abdelrahmanosama769@gmail.com",
+			"password": "a1234567"
+		},
+		{
+			"email": "abdelrahmanosama7@gmail.com",
+			"password": "a123456789"
+		}
+			]
+}
